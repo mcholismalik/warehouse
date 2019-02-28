@@ -1,3 +1,3 @@
 # Introduction
 
-Warehouse Web Application adalah Web aplikasi manajemen gudang.
+Warehouse is the web application for management warehouse, built with php native 
